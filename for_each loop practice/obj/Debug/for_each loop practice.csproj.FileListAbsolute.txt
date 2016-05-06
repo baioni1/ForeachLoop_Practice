@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\for_each loop practice\for_each loop practice\bin\Debug\for_each loop practice.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\for_each loop practice\for_each loop practice\bin\Debug\for_each loop practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\for_each loop practice\for_each loop practice\bin\Debug\for_each loop practice.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\for_each loop practice\for_each loop practice\obj\Debug\for_each loop practice.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\for_each loop practice\for_each loop practice\obj\Debug\for_each loop practice.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\for_each loop practice\for_each loop practice\obj\Debug\for_each loop practice.pdb
